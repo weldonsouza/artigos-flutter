@@ -46,4 +46,4 @@ Título do artigo | Autor
 
 ## Como posso contribuir?
 
-Dê uma olhada [nesta](https://github.com/lucalves/artigos-flutter/blob/master/CONTRIBUTING.md) seção para detalhes de como contribuir com o repositório.
+Dê uma olhada [nesta](https://github.com/lucalves/artigos-flutter/blob/master/CONTRIBUTING.md) seção para detalhes de como contribuir com o repositório. 
